@@ -3,7 +3,7 @@
 ## Purpose
 1. **Passenger Counter App**: Learn the basics of JavaScript by building a simple passenger counter application.
 2. **Blackjack Game**: Dive deeper into JavaScript concepts by building a fully-functional Blackjack game.
-3. **Chrome Extension**: Extend your JavaScript skills by creating a Chrome extension that saves and displays leads.
+3. **Chrome Extension**: Extend my JavaScript skills by creating a Chrome extension that saves and displays leads.
 
 ## Credits
 
